@@ -24,3 +24,6 @@ if(!globalThis.PhaseSwapper)
 ui.notifications.error("Phase Swapper module not loaded.");
 else
 PhaseSwapper.open();
+
+
+Drop folder into your ".../FoundryVTT/Data/Modules" folder.
